@@ -1,1 +1,3 @@
-# Koa backend Server
+# Koa + mongoose backend Server
+
+This project work in the past. I can't remember source...
